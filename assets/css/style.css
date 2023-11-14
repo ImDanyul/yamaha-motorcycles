@@ -142,7 +142,7 @@ footer {
             text-decoration: none;
         }
     
-        a::before {
+    #menu a::before {
             content: '';
             position: absolute;
             width: 100%;
@@ -156,7 +156,7 @@ footer {
             transition: transform .3s ease-in-out;
         }
     
-        a:hover::before {
+    #menu a:hover::before {
             transform-origin: left;
             transform: scaleX(1);
         }
