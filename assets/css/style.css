@@ -21,7 +21,7 @@ body {
 
 /* Header */
 header {
-    background-color: #ffffff;
+    background-color: #3b3b3b;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -34,7 +34,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: inherit;
+    color: #ffffff;
 }
 
 h1 {
@@ -56,14 +56,14 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #ffffff;
 }
 
 
 /* Navbar Style with dropdown toggle*/
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #3b3b3b;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -94,15 +94,24 @@ main {
 
 /* Clickable Boxes*/
 
+.container img:hover {
+    border: 3px solid black;
+}
+
 .container {
     height: 100%;
     display: flex;
+    flex-wrap: wrap;
 }
 
 .image-box {
-    flex: 1;
+    flex: 1 0 100%;
     box-sizing: border-box;
     margin-right: 5px;
+}
+
+.image-box:first-child {
+    margin-left: 0;
 }
 
 .image-box:last-child {
@@ -155,12 +164,17 @@ footer {
     main {
         margin-top: 79px;
     }
+    .image-box {
+        flex: 1 0 30%;
+        height: 100vh;
+    }
+
 }
 
 /* Large devices (laptops and desktops) */
 @media screen and (min-width: 992px) {
     #menu a {
-            color: #18272F;
+            color: #ffffff;
             position: relative;
             text-decoration: none;
         }
@@ -183,4 +197,7 @@ footer {
             transform-origin: left;
             transform: scaleX(1);
         }
+    .image-box {
+        flex: 1 0 30%;
+    }
 }
