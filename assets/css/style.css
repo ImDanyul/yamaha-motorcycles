@@ -87,11 +87,34 @@ nav {
 
 /* Main content */
 main {
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
+/* Clickable Boxes*/
+
+.container {
+    height: 100%;
+    display: flex;
+}
+
+.image-box {
+    flex: 1;
+    box-sizing: border-box;
+    margin-right: 5px;
+}
+
+.image-box:last-child {
+    margin-right: 0;
+}
+
+.image-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 
 /* Footer */
 footer {
