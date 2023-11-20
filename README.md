@@ -34,8 +34,11 @@ The contact us section is put together with the footer as this is a community pa
 # Features left to implement
 A feature id like to implement into my website would be a news section that automatically updates in real timewhen news on the yamaha motorcyles gets posted
 
-# Testing
+# Validator Testing
 
+No errors found when testing on W3C CSS Validator <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fimdanyul-yamaha-motorcyc-en1krrv8xq.us2.codeanyapp.com%2F%23%2Fworkspaces%2Fyamaha-motorcycles&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
+
+No errors found whent testing on W3C HTML Validator <https://validator.w3.org/nu/?doc=https%3A%2F%2Fid.codeanywhere.com%2Frealms%2Fdefault%2Fprotocol%2Fopenid-connect%2Fauth%3Fclient_id%3Dproxy%26scope%3Dopenid%2520profile%2520email%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fauth.us2.codeanyapp.com%252F_auth%252Fcallback%26nonce%3D65JdLJDIYTBW5vhlcarxv-GQsjuscDSI6kZN2fLSPUc%26state%3DeyJyZXR1cm5UbyI6Imh0dHBzOi8vaW1kYW55dWwteWFtYWhhLW1vdG9yY3ljLWVuMWtycnY4eHEudXMyLmNvZGVhbnlhcHAuY29tOjQ0My8ifQ%26code_challenge_method%3DS256%26code_challenge%3DYMesga8ROXPCeZ6q56Pc9quGR59-jsrqXNBvU0XZZDo#textarea>
 # Unfixed Bugs
 
 # Deployment
