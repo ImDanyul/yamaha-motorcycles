@@ -70,7 +70,6 @@ The text for Yamaha-R6 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZ
 
 The text for Yamaha-R3 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R3> and <https://www.yamaha-racing.com/worldssp300/bike/>
 
-
 ### Media
 
 Images for the website sourced from <https://www.pexels.com> and <https://unsplash.com/>
