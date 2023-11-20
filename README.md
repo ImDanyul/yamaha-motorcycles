@@ -52,7 +52,9 @@ Difficulty with making images responsive to tablet sized screens (believed to be
 ### Content
 
 The text for Yamaha-R1 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R1>
+
 The text for Yamaha-R6 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R6> and <https://www.roadracingworld.com/news/motoamerica-yamaha-bringing-spirit-of-challenge-to-daytona-200/>
+
 The text for Yamaha-R3 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R3> and <https://www.yamaha-racing.com/worldssp300/bike/>
 
 
