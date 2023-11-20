@@ -2,8 +2,7 @@
 
 This website has been designed to cater to enthusiasts of Yamaha motorcycles, offering a convenient source for quick insights into some of the brand's most popular bike models. Users can explore the historical background of these motorcycles and access information on their racing legacy.</p>
 
-# \Add web response photo here
-
+![Website Preview](https://github.com/ImDanyul/yamaha-motorcycles/blob/main/media/3%20-%20kdtdpFa.png)
 
 ## Features
 
@@ -46,6 +45,18 @@ No errors found whent testing on W3C HTML Validator <https://validator.w3.org/nu
 Difficulty with making images responsive to tablet sized screens (believed to be caused by image sizes themselves not being able to be stretched)
 
 ## Deployment
+
+1. Open github.com, go to profile, 'your repositories' select ur project
+
+2. Go to settings at the top, then press pages on the left side
+
+3. Select source to be 'Deploy from a branch'
+
+4. Select Branch to be 'main' and file to be '/docs'
+
+5. Press save
+
+Live Link - <https://imdanyul.github.io/yamaha-motorcycles/>
 
 ## Credits
 
