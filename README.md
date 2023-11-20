@@ -31,20 +31,31 @@ The contact us section is put together with the footer as this is a community pa
 
 ![Footer](https://github.com/ImDanyul/yamaha-motorcycles/blob/main/media/2%20-%20DW0Qxnd.png)
 
-# Features left to implement
+## Features left to implement
+
 A feature id like to implement into my website would be a news section that automatically updates in real timewhen news on the yamaha motorcyles gets posted
 
-# Validator Testing
+## Validator Testing
 
 No errors found when testing on W3C CSS Validator <https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fimdanyul-yamaha-motorcyc-en1krrv8xq.us2.codeanyapp.com%2F%23%2Fworkspaces%2Fyamaha-motorcycles&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en>
 
-No errors found whent testing on W3C HTML Validator <https://validator.w3.org/nu/?doc=https%3A%2F%2Fid.codeanywhere.com%2Frealms%2Fdefault%2Fprotocol%2Fopenid-connect%2Fauth%3Fclient_id%3Dproxy%26scope%3Dopenid%2520profile%2520email%26response_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fauth.us2.codeanyapp.com%252F_auth%252Fcallback%26nonce%3D65JdLJDIYTBW5vhlcarxv-GQsjuscDSI6kZN2fLSPUc%26state%3DeyJyZXR1cm5UbyI6Imh0dHBzOi8vaW1kYW55dWwteWFtYWhhLW1vdG9yY3ljLWVuMWtycnY4eHEudXMyLmNvZGVhbnlhcHAuY29tOjQ0My8ifQ%26code_challenge_method%3DS256%26code_challenge%3DYMesga8ROXPCeZ6q56Pc9quGR59-jsrqXNBvU0XZZDo#textarea>
-# Unfixed Bugs
+No errors found whent testing on W3C HTML Validator <https://validator.w3.org/nu/?doc=https%3A%2F%2Fgithub.com%2FImDanyul%2Fyamaha-motorcycles%2Fblob%2Fmain%2Findex.html>
 
-# Deployment
+## Unfixed Bugs
 
-# Credits
+Difficulty with making images responsive to tablet sized screens (believed to be caused by image sizes themselves not being able to be stretched)
 
-# Content
+## Deployment
 
-# Media
+## Credits
+
+### Content
+
+The text for Yamaha-R1 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R1>
+The text for Yamaha-R6 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R6> and <https://www.roadracingworld.com/news/motoamerica-yamaha-bringing-spirit-of-challenge-to-daytona-200/>
+The text for Yamaha-R3 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R3> and <https://www.yamaha-racing.com/worldssp300/bike/>
+
+
+### Media
+
+All images sourced from <https://www.pexels.com>
