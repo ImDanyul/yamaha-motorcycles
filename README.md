@@ -49,9 +49,11 @@ Difficulty with making images responsive to tablet sized screens (believed to be
 
 ## Credits
 
+code for navigation bar highlights from - <https://www.w3schools.com/>
+
 ### Content
 
-The text for Yamaha-R1 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R1>
+The text for Yamaha-R1 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R1> and <https://en.wikipedia.org/wiki/Yamaha_Motor_Racing>
 
 The text for Yamaha-R6 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZF-R6> and <https://www.roadracingworld.com/news/motoamerica-yamaha-bringing-spirit-of-challenge-to-daytona-200/>
 
@@ -60,4 +62,4 @@ The text for Yamaha-R3 was taken from - <https://en.wikipedia.org/wiki/Yamaha_YZ
 
 ### Media
 
-All images sourced from <https://www.pexels.com>
+Images for the website sourced from <https://www.pexels.com> and <https://unsplash.com/>
