@@ -17,19 +17,19 @@ The design is meant to be minimalism to maintain a clean and uncluttered header,
 
 The home page features a distinctive highlight border, enhancing user interaction and providing a visual indicator, especially on larger screens.
 
-
+![Nav Bar](https://github.com/ImDanyul/yamaha-motorcycles/blob/main/media/3%20-%20kdtdpFa.png)
 
 ## Landing page
 
 The landing page showcases 3 eye-catching images, each containing a text box at the bottom to identify and distinguish each bike. These images are designed to highlight when hovered over, offering a dynamic and interactive experience for users.
 
-# /add landing page photo here
+![Landing Page](https://github.com/ImDanyul/yamaha-motorcycles/blob/main/media/1%20-%201Narx35.png)
 
 ## contact section / footer
 
 The contact us section is put together with the footer as this is a community page that consists of social media icons that navigate to Twitter,Facebook,Instagram and Youtube.
 
-# /image of the footer
+![Footer](https://github.com/ImDanyul/yamaha-motorcycles/blob/main/media/2%20-%20DW0Qxnd.png)
 
 # Features left to implement
 A feature id like to implement into my website would be a news section that automatically updates in real timewhen news on the yamaha motorcyles gets posted
